@@ -1,0 +1,180 @@
+date,channel,customer_id,customer_name,feedback,rating
+2026-01-05,app_store,user_550,Sneha Bose,Support team resolved my issue in 10 minutes on chat. Impressed!,5
+2026-01-05,survey,user_518,Sneha Nair,Biometric login stopped working after the update. PIN every time now.,2
+2026-01-06,support_ticket,user_130,Rohit Rao,Checkout keeps timing out on mobile data. Works on wifi sometimes. Please fix.,1
+2026-01-06,app_store,user_550,Rohit Kulkarni,New search is broken - shows 'no results' for payments that definitely exist.,2
+2026-01-07,twitter,user_176,Pooja Menon,"Raised a ticket at 11pm, got a proper resolution by morning. Good service.",5
+2026-01-07,twitter,user_126,Vikram Reddy,Getting 8 notification a day for offers. Please add a mute option.,2
+2026-01-08,survey,user_260,Aarav Murthy,Redesign is gorgeous. Dark mode is perfect. Great job team!,5
+2026-01-08,support_ticket,user_748,Manoj Singh,Works okay for daily UPI payments. Nothing spectacular.,5
+2026-01-09,app_store,user_529,Divya Bose,Payment page hangs at the final step. Had to switch to another app to complete my transaction.,1
+2026-01-09,app_store,user_460,Divya Rao,New premium pricing is steep for what you get. Other apps give this free.,2
+2026-01-10,app_store,user_101,Rohit Sharma,Checkout was slow today during my metro commute. UPI payment timed out twice.,2
+2026-01-10,twitter,user_242,Swathi Iyer,Why is checkout so slow?? Every other app is instant. Lost a customer today.,1
+2026-01-10,support_ticket,user_101,Rohit Sharma,The redesigned dashboard is beautiful but SO slow. Loading spinner is my new best friend.,2
+2026-01-11,twitter,user_719,Nisha Iyer,Would love a widget for quick pay on the home screen.,5
+2026-01-13,support_ticket,user_205,Priya Iyer,Your search bar timed out twice today. How hard is it to search transactions?!,1
+2026-01-13,survey,user_320,Nisha Bose,Decent app but the icon looks dated on my phone.,4
+2026-01-14,app_store,user_814,Nisha Singh,Checkout is extremely slow today. Is anyone else seeing this?,2
+2026-01-14,twitter,user_101,Rohit Sharma,Checkout page takes forever to load and the UPI payment times out half the time.,2
+2026-01-14,survey,user_101,Rohit Sharma,Pricing plan confusion - got billed for premium but I never subscribed.,2
+2026-01-14,survey,user_197,Rahul Murthy,Add an option to schedule recurring payments please!,4
+2026-01-16,support_ticket,user_205,Priya Iyer,Login keeps failing with 'session expired' even right after signup.,2
+2026-01-17,twitter,user_834,Rahul Rao,The redesigned dashboard is beautiful but SO slow. Loading spinner is my new best friend.,2
+2026-01-17,support_ticket,user_966,Priya Patel,"App update made everything sluggish - home screen, dashboard, statements. Please rollback.",2
+2026-01-17,app_store,user_304,Aarav Reddy,Updated yesterday - the new UI is clean and easy to navigate. Five stars from me.,5
+2026-01-18,support_ticket,user_487,Rohit Kulkarni,UPI payment at checkout failed again with error UPI-99. This has been happening for weeks.,2
+2026-01-18,app_store,user_171,Priya Joshi,Checkout keeps timing out on mobile data. Works on wifi sometimes. Please fix.,1
+2026-01-18,app_store,user_304,Aarav Reddy,"Raised a ticket at 11pm, got a proper resolution by morning. Good service.",5
+2026-01-19,support_ticket,user_101,Rohit Sharma,Reporting again: checkout UPI payment fails on mobile data. Ticket #4471. This is the third time this month.,1
+2026-01-19,app_store,user_822,Nisha Reddy,"Love the fresh look of the new dashboard, honestly. But the loading times are terrible.",3
+2026-01-19,app_store,user_946,Vikram Patel,Redesign is gorgeous. Dark mode is perfect. Great job team!,5
+2026-01-19,app_store,user_304,Aarav Reddy,Payment success notifications are delayed by hours. Confusing when reconciling.,3
+2026-01-20,support_ticket,user_646,Swathi Joshi,Checkout keeps timing out on mobile data. Works on wifi sometimes. Please fix.,2
+2026-01-20,twitter,user_510,Arjun Patel,"Tried paying 3 times at checkout. Each time it said 'payment processing' and then failed. Money not deducted, thank god, but so frustrating.",2
+2026-01-20,twitter,user_915,Priya Verma,The redesigned dashboard is beautiful but SO slow. Loading spinner is my new best friend.,3
+2026-01-20,survey,user_516,Ritika Nair,"App update made everything sluggish - home screen, dashboard, statements. Please rollback.",1
+2026-01-21,survey,user_234,Rohit Kulkarni,Pricing plan confusion - got billed for premium but I never subscribed.,2
+2026-01-22,support_ticket,user_203,Suresh Menon,Checkout is extremely slow today. Is anyone else seeing this?,2
+2026-01-22,app_store,user_954,Kavya Nair,New update ruined the speed. Dashboard barely opens. What happened?,2
+2026-01-22,app_store,user_370,Sai Rao,The new design looks premium! Finally an Indian fintech app that feels modern.,4
+2026-01-22,survey,user_544,Sneha Iyer,Support team resolved my issue in 10 minutes on chat. Impressed!,5
+2026-01-22,app_store,user_653,Nisha Nair,Biometric login stopped working after the update. PIN every time now.,2
+2026-01-23,support_ticket,user_524,Nisha Singh,New search is broken - shows 'no results' for payments that definitely exist.,1
+2026-01-23,survey,user_877,Pooja Sharma,Your support agent Deepika was incredibly patient and helpful. Give her a raise.,5
+2026-01-23,support_ticket,user_481,Vikram Sharma,App is fine overall. Does what it says.,5
+2026-01-24,survey,user_314,Deepa Menon,"Tried paying 3 times at checkout. Each time it said 'payment processing' and then failed. Money not deducted, thank god, but so frustrating.",1
+2026-01-24,survey,user_205,Priya Iyer,Ever since the last update the dashboard takes 10+ seconds to load. Uninstalling if not fixed.,1
+2026-01-24,twitter,user_579,Varun Kulkarni,Updated yesterday - the new UI is clean and easy to navigate. Five stars from me.,5
+2026-01-24,app_store,user_712,Priya Murthy,Loving the fresh look. My parents can finally use the app without calling me.,5
+2026-01-25,twitter,user_324,Deepa Singh,Payment page hangs at the final step. Had to switch to another app to complete my transaction.,1
+2026-01-25,survey,user_498,Manoj Reddy,"The search feature is so slow, results take 5-6 seconds and half of them are wrong.",3
+2026-01-25,app_store,user_585,Rohit Patel,Works okay for daily UPI payments. Nothing spectacular.,4
+2026-01-26,twitter,user_940,Divya Joshi,Dashboard still slow this week. Third time reporting it.,2
+2026-01-27,app_store,user_505,Sai Bose,"Tried paying 3 times at checkout. Each time it said 'payment processing' and then failed. Money not deducted, thank god, but so frustrating.",1
+2026-01-27,support_ticket,user_304,Aarav Reddy,Ever since the last update the dashboard takes 10+ seconds to load. Uninstalling if not fixed.,2
+2026-01-27,app_store,user_386,Priya Verma,Biometric login stopped working after the update. PIN every time now.,1
+2026-01-28,app_store,user_509,Sneha Nair,The new design looks premium! Finally an Indian fintech app that feels modern.,5
+2026-01-28,app_store,user_581,Kavya Murthy,Loving the fresh look. My parents can finally use the app without calling me.,4
+2026-01-28,survey,user_101,Rohit Sharma,Support team resolved my issue in 10 minutes on chat. Impressed!,5
+2026-01-29,app_store,user_659,Ritika Joshi,Your search bar timed out twice today. How hard is it to search transactions?!,2
+2026-01-30,support_ticket,user_369,Swathi Murthy,Payment page hangs at the final step. Had to switch to another app to complete my transaction.,1
+2026-01-30,survey,user_509,Sneha Nair,Checkout keeps timing out on mobile data. Works on wifi sometimes. Please fix.,2
+2026-01-30,twitter,user_304,Aarav Reddy,New premium pricing is steep for what you get. Other apps give this free.,3
+2026-01-30,survey,user_587,Aditya Verma,Getting 8 notification a day for offers. Please add a mute option.,3
+2026-01-31,app_store,user_981,Sneha Nair,Checkout page takes forever to load and the UPI payment times out half the time.,2
+2026-01-31,twitter,user_101,Rohit Sharma,Checkout keeps timing out on mobile data. Works on wifi sometimes. Please fix.,2
+2026-01-31,support_ticket,user_171,Arjun Verma,The redesigned dashboard is beautiful but SO slow. Loading spinner is my new best friend.,3
+2026-01-31,support_ticket,user_810,Pooja Kulkarni,Redesign is gorgeous. Dark mode is perfect. Great job team!,4
+2026-02-01,survey,user_304,Aarav Reddy,Dashboard crashes when I open the transactions tab. Started after v2.3.,3
+2026-02-01,twitter,user_354,Arjun Gupta,Dashboard still slow this week. Third time reporting it.,2
+2026-02-01,survey,user_460,Meera Chandra,Search returns irrelevant results. I type a payee name and get random stuff.,2
+2026-02-01,survey,user_101,Rohit Sharma,The new design looks premium! Finally an Indian fintech app that feels modern.,5
+2026-02-01,support_ticket,user_520,Kavya Murthy,Would love a widget for quick pay on the home screen.,3
+2026-02-02,twitter,user_101,Rohit Sharma,"@FinlyApp checkout still broken in 2026?? Third complaint, still no fix. Moving my salary account if this continues.",1
+2026-02-02,app_store,user_999,Meera Joshi,Checkout page takes forever to load and the UPI payment times out half the time.,1
+2026-02-02,support_ticket,user_145,Varun Murthy,Dashboard crashes when I open the transactions tab. Started after v2.3.,3
+2026-02-02,twitter,user_706,Manoj Reddy,Search inside the app is useless. Typing 'electricity bill' shows nothing relevant.,1
+2026-02-03,support_ticket,user_214,Meera Murthy,Checkout is extremely slow today. Is anyone else seeing this?,2
+2026-02-03,support_ticket,user_878,Ishita Nair,Checkout page takes forever to load and the UPI payment times out half the time.,1
+2026-02-03,survey,user_509,Sneha Nair,New search is broken - shows 'no results' for payments that definitely exist.,3
+2026-02-03,survey,user_911,Ananya Gupta,Your support agent Deepika was incredibly patient and helpful. Give her a raise.,5
+2026-02-03,survey,user_460,Sneha Rao,Would love a widget for quick pay on the home screen.,3
+2026-02-04,support_ticket,user_859,Swathi Rao,"Love the fresh look of the new dashboard, honestly. But the loading times are terrible.",3
+2026-02-04,app_store,user_151,Arjun Chandra,Search performance is getting worse every week. Switching to the other app.,2
+2026-02-04,survey,user_488,Arjun Murthy,Cannot find old transactions through search. Filters are impossible to locate.,2
+2026-02-05,twitter,user_411,Meera Rao,"App update made everything sluggish - home screen, dashboard, statements. Please rollback.",3
+2026-02-05,survey,user_662,Vikram Kulkarni,The new design looks premium! Finally an Indian fintech app that feels modern.,5
+2026-02-06,app_store,user_265,Ishita Reddy,"Tried paying 3 times at checkout. Each time it said 'payment processing' and then failed. Money not deducted, thank god, but so frustrating.",1
+2026-02-06,twitter,user_721,Nisha Rao,Why is checkout so slow?? Every other app is instant. Lost a customer today.,1
+2026-02-06,survey,user_905,Rahul Murthy,Dashboard crashes when I open the transactions tab. Started after v2.3.,1
+2026-02-06,app_store,user_779,Sneha Kulkarni,The redesigned dashboard is beautiful but SO slow. Loading spinner is my new best friend.,2
+2026-02-06,support_ticket,user_488,Deepa Gupta,New update ruined the speed. Dashboard barely opens. What happened?,2
+2026-02-06,survey,user_304,Aarav Reddy,Loving the fresh look. My parents can finally use the app without calling me.,5
+2026-02-06,survey,user_304,Aarav Reddy,Login keeps failing with 'session expired' even right after signup.,3
+2026-02-07,twitter,user_304,Aarav Reddy,Search returns irrelevant results. I type a payee name and get random stuff.,2
+2026-02-07,survey,user_891,Suresh Reddy,Updated yesterday - the new UI is clean and easy to navigate. Five stars from me.,5
+2026-02-08,support_ticket,user_619,Sneha Kulkarni,Checkout keeps timing out on mobile data. Works on wifi sometimes. Please fix.,1
+2026-02-08,app_store,user_402,Swathi Singh,Why am I now being charged for the statements feature? That used to be free.,2
+2026-02-08,app_store,user_669,Kavya Iyer,App is fine overall. Does what it says.,3
+2026-02-09,twitter,user_390,Naveen Singh,New update ruined the speed. Dashboard barely opens. What happened?,1
+2026-02-09,support_ticket,user_484,Suresh Rao,Cannot find old transactions through search. Filters are impossible to locate.,3
+2026-02-10,twitter,user_509,Sneha Nair,Checkout keeps timing out on mobile data. Works on wifi sometimes. Please fix.,2
+2026-02-10,app_store,user_304,Aarav Nair,Search inside the app is useless. Typing 'electricity bill' shows nothing relevant.,3
+2026-02-10,twitter,user_609,Manoj Nair,"Raised a ticket at 11pm, got a proper resolution by morning. Good service.",5
+2026-02-11,twitter,user_172,Naveen Joshi,Checkout page takes forever to load and the UPI payment times out half the time.,1
+2026-02-11,support_ticket,user_509,Sneha Nair,"Tried paying 3 times at checkout. Each time it said 'payment processing' and then failed. Money not deducted, thank god, but so frustrating.",2
+2026-02-11,app_store,user_205,Priya Iyer,New search is broken - shows 'no results' for payments that definitely exist.,1
+2026-02-12,twitter,user_787,Sai Verma,Payment page hangs at the final step. Had to switch to another app to complete my transaction.,2
+2026-02-12,twitter,user_125,Priya Joshi,Dashboard still slow this week. Third time reporting it.,1
+2026-02-12,support_ticket,user_220,Sai Nair,The new design looks premium! Finally an Indian fintech app that feels modern.,5
+2026-02-12,twitter,user_594,Pooja Joshi,Updated yesterday - the new UI is clean and easy to navigate. Five stars from me.,5
+2026-02-12,survey,user_144,Swathi Kulkarni,Getting 8 notification a day for offers. Please add a mute option.,2
+2026-02-13,support_ticket,user_165,Rahul Reddy,Checkout page takes forever to load and the UPI payment times out half the time.,1
+2026-02-13,support_ticket,user_552,Aditya Rao,"Love the fresh look of the new dashboard, honestly. But the loading times are terrible.",3
+2026-02-13,support_ticket,user_362,Kavya Gupta,"The search feature is so slow, results take 5-6 seconds and half of them are wrong.",3
+2026-02-13,twitter,user_418,Ishita Reddy,Redesign is gorgeous. Dark mode is perfect. Great job team!,4
+2026-02-13,support_ticket,user_885,Ritika Reddy,Add an option to schedule recurring payments please!,5
+2026-02-14,twitter,user_744,Manoj Rao,Dashboard crashes when I open the transactions tab. Started after v2.3.,2
+2026-02-14,app_store,user_153,Kavya Joshi,Search inside the app is useless. Typing 'electricity bill' shows nothing relevant.,3
+2026-02-14,twitter,user_109,Aditya Kulkarni,Your support agent Deepika was incredibly patient and helpful. Give her a raise.,4
+2026-02-14,support_ticket,user_225,Aditya Patel,Login keeps failing with 'session expired' even right after signup.,3
+2026-02-14,twitter,user_304,Aarav Reddy,Would love a widget for quick pay on the home screen.,4
+2026-02-15,survey,user_800,Ritika Iyer,Search performance is getting worse every week. Switching to the other app.,1
+2026-02-15,support_ticket,user_331,Deepa Chandra,New premium pricing is steep for what you get. Other apps give this free.,3
+2026-02-16,support_ticket,user_789,Sai Iyer,Checkout is extremely slow today. Is anyone else seeing this?,2
+2026-02-16,support_ticket,user_177,Aditya Iyer,UPI payment at checkout failed again with error UPI-99. This has been happening for weeks.,1
+2026-02-17,support_ticket,user_294,Ishita Bose,Checkout is extremely slow today. Is anyone else seeing this?,2
+2026-02-17,twitter,user_209,Nisha Joshi,Dashboard still slow this week. Third time reporting it.,3
+2026-02-17,twitter,user_973,Pooja Iyer,Support team resolved my issue in 10 minutes on chat. Impressed!,5
+2026-02-17,twitter,user_151,Rahul Joshi,Biometric login stopped working after the update. PIN every time now.,1
+2026-02-18,support_ticket,user_601,Sneha Murthy,Search performance is getting worse every week. Switching to the other app.,2
+2026-02-18,survey,user_576,Nisha Menon,Your search bar timed out twice today. How hard is it to search transactions?!,1
+2026-02-18,app_store,user_575,Manoj Chandra,Cannot find old transactions through search. Filters are impossible to locate.,2
+2026-02-18,survey,user_463,Arjun Singh,"The search feature is so slow, results take 5-6 seconds and half of them are wrong.",3
+2026-02-18,survey,user_619,Arjun Reddy,Updated yesterday - the new UI is clean and easy to navigate. Five stars from me.,5
+2026-02-19,support_ticket,user_969,Divya Gupta,Checkout page takes forever to load and the UPI payment times out half the time.,1
+2026-02-19,twitter,user_902,Aditya Kulkarni,Checkout page takes forever to load and the UPI payment times out half the time.,2
+2026-02-19,app_store,user_670,Divya Iyer,"App update made everything sluggish - home screen, dashboard, statements. Please rollback.",2
+2026-02-19,support_ticket,user_509,Sneha Nair,Your search bar timed out twice today. How hard is it to search transactions?!,1
+2026-02-19,twitter,user_114,Arjun Iyer,New premium pricing is steep for what you get. Other apps give this free.,3
+2026-02-20,twitter,user_777,Kavya Patel,Cannot find old transactions through search. Filters are impossible to locate.,1
+2026-02-20,survey,user_205,Priya Iyer,Would love a widget for quick pay on the home screen.,3
+2026-02-21,support_ticket,user_101,Rohit Sharma,"Checkout timeouts continue even after the v2.4 update. Other issues fixed, this one not. Ticket #5120.",2
+2026-02-21,app_store,user_322,Priya Sharma,"Tried paying 3 times at checkout. Each time it said 'payment processing' and then failed. Money not deducted, thank god, but so frustrating.",1
+2026-02-21,support_ticket,user_205,Priya Iyer,New search is broken - shows 'no results' for payments that definitely exist.,3
+2026-02-21,survey,user_701,Meera Murthy,Your support agent Deepika was incredibly patient and helpful. Give her a raise.,5
+2026-02-21,app_store,user_753,Kavya Iyer,Pricing plan confusion - got billed for premium but I never subscribed.,2
+2026-02-21,app_store,user_967,Suresh Murthy,Getting 8 notification a day for offers. Please add a mute option.,4
+2026-02-22,survey,user_672,Ritika Singh,"Love the fresh look of the new dashboard, honestly. But the loading times are terrible.",3
+2026-02-22,app_store,user_620,Swathi Nair,Redesign is gorgeous. Dark mode is perfect. Great job team!,5
+2026-02-23,survey,user_973,Naveen Gupta,Checkout keeps timing out on mobile data. Works on wifi sometimes. Please fix.,1
+2026-02-23,survey,user_637,Ritika Kulkarni,Cannot find old transactions through search. Filters are impossible to locate.,2
+2026-02-23,app_store,user_767,Vikram Kapoor,Loving the fresh look. My parents can finally use the app without calling me.,5
+2026-02-24,twitter,user_635,Rahul Menon,Payment page hangs at the final step. Had to switch to another app to complete my transaction.,2
+2026-02-24,support_ticket,user_350,Kavya Kulkarni,"Tried paying 3 times at checkout. Each time it said 'payment processing' and then failed. Money not deducted, thank god, but so frustrating.",2
+2026-02-24,twitter,user_616,Nisha Bose,Dashboard still slow this week. Third time reporting it.,2
+2026-02-24,app_store,user_423,Sneha Gupta,Search inside the app is useless. Typing 'electricity bill' shows nothing relevant.,2
+2026-02-25,twitter,user_535,Swathi Singh,Your search bar timed out twice today. How hard is it to search transactions?!,2
+2026-02-25,app_store,user_409,Aarav Nair,"The search feature is so slow, results take 5-6 seconds and half of them are wrong.",1
+2026-02-25,support_ticket,user_553,Meera Murthy,"The search feature is so slow, results take 5-6 seconds and half of them are wrong.",1
+2026-02-25,survey,user_339,Nisha Sharma,Redesign is gorgeous. Dark mode is perfect. Great job team!,5
+2026-02-25,survey,user_101,Rohit Sharma,Payment success notifications are delayed by hours. Confusing when reconciling.,2
+2026-02-26,app_store,user_709,Rohit Joshi,Checkout is extremely slow today. Is anyone else seeing this?,1
+2026-02-26,app_store,user_234,Deepa Kulkarni,"Tried paying 3 times at checkout. Each time it said 'payment processing' and then failed. Money not deducted, thank god, but so frustrating.",1
+2026-02-26,support_ticket,user_993,Aarav Kulkarni,Search performance is getting worse every week. Switching to the other app.,2
+2026-02-26,support_ticket,user_665,Ishita Chandra,Loving the fresh look. My parents can finally use the app without calling me.,4
+2026-02-26,survey,user_131,Rohit Rao,Works okay for daily UPI payments. Nothing spectacular.,4
+2026-02-27,app_store,user_676,Sneha Patel,Checkout page takes forever to load and the UPI payment times out half the time.,2
+2026-02-27,support_ticket,user_509,Sneha Nair,Search inside the app is useless. Typing 'electricity bill' shows nothing relevant.,3
+2026-02-27,app_store,user_802,Swathi Sharma,Support team resolved my issue in 10 minutes on chat. Impressed!,5
+2026-02-27,support_ticket,user_383,Vikram Nair,OTP never arrives on my number during evenings. Locked out again.,1
+2026-02-28,app_store,user_641,Aarav Kulkarni,Checkout keeps timing out on mobile data. Works on wifi sometimes. Please fix.,1
+2026-02-28,support_ticket,user_808,Divya Kulkarni,Cannot find old transactions through search. Filters are impossible to locate.,2
+2026-02-28,app_store,user_205,Priya Iyer,Your search bar timed out twice today. How hard is it to search transactions?!,3
+2026-02-28,app_store,user_674,Rahul Joshi,Pricing plan confusion - got billed for premium but I never subscribed.,3
+2026-03-01,twitter,user_353,Sai Menon,Dashboard crashes when I open the transactions tab. Started after v2.3.,2
+2026-03-01,app_store,user_982,Pooja Iyer,"The search feature is so slow, results take 5-6 seconds and half of them are wrong.",2
+2026-03-01,support_ticket,user_205,Priya Iyer,New search is broken - shows 'no results' for payments that definitely exist.,2
+2026-03-01,app_store,user_816,Meera Reddy,"Raised a ticket at 11pm, got a proper resolution by morning. Good service.",5
+2026-03-01,twitter,user_667,Karan Rao,OTP never arrives on my number during evenings. Locked out again.,2

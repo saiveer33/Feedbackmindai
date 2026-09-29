@@ -1,0 +1,20 @@
+[
+  {
+    "version": "2.2",
+    "date": "2025-12-08",
+    "title": "Year-end release",
+    "changes": "Year-in-review statements page; minor bug fixes; festival offer banners."
+  },
+  {
+    "version": "2.3",
+    "date": "2026-01-20",
+    "title": "Dashboard Redesign",
+    "changes": "Completely redesigned dashboard UI with dark mode, new visual style, and reworked transactions tab."
+  },
+  {
+    "version": "2.4",
+    "date": "2026-02-17",
+    "title": "Performance Update",
+    "changes": "Dashboard load-time optimizations, fixed transactions-tab crash, faster home screen rendering. Search backend NOT touched in this release."
+  }
+]
